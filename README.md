@@ -1,4 +1,4 @@
-# shella
+# shellaiOpenaiApi
 
 ```markdown
 # OpenAI Chat History Manager
